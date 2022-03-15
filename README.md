@@ -5,3 +5,7 @@
 Данные взяты из Kaggle и находятся в свободном доступе
 
 Для запуска проекта необходимо запустить Jupiter NoteBook проект или DataLore, все необходимые импорты, данные, файлы и комментарии содержатся в файле [ML Searcher.ipynb](https://github.com/MaximGilman/ML-Article-Searcher/blob/master/Ml%20Searcher.ipynb)
+
+
+# Данная страница является исторической версией.
+## В 2022 году в рамках цикла встреч в компании Parma TG проект был доработан. Последняя версия проекта опубликована в [Итоговая версия](https://github.com/MaximGilman/ML-Article-Searcher/tree/parma-master)
